@@ -1,6 +1,2 @@
-Estoy en el master
 Dummy text file
-
-Estoy en el entorno de prod
-
 
